@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ct.nmrsolutions.fi/blog</id>
+    <title>ChemTruth documentation Blog</title>
+    <updated>2025-09-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ct.nmrsolutions.fi/blog"/>
+    <subtitle>ChemTruth documentation Blog</subtitle>
+    <icon>https://ct.nmrsolutions.fi/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NMRium new features - September 2025]]></title>
+        <id>https://ct.nmrsolutions.fi/blog/2025-09-01-newsletter</id>
+        <link href="https://ct.nmrsolutions.fi/blog/2025-09-01-newsletter"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This trimester brings two powerful new features to NMRium!]]></summary>
+        <content type="html"><![CDATA[<p>This trimester brings two powerful new features to NMRium!</p>
+<ol>
+<li><strong>Multiple customizable insets</strong> – You can now add as many insets as you like, and easily resize, rescale, and customize what each one displays, giving you greater flexibility and clarity in spectrum analysis.</li>
+</ol>]]></content>
+        <author>
+            <name>Luc Patiny</name>
+            <uri>https://www.linkedin.com/in/lpatiny</uri>
+        </author>
+        <category label="NMRium" term="NMRium"/>
+        <category label="newsletter" term="newsletter"/>
+    </entry>
+</feed>
