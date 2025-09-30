@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # 403 is accepted, this is what is usually returned after a bot was detected
+          args: --verbose --no-progress --accept 200,403 --extensions md ./
+          lycheeVersion: v0.19.1
