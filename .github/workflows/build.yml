@@ -25,5 +25,5 @@ jobs:
           token: ${{ secrets.BOT_TOKEN }}
           branch: gh-pages
           folder: build
-          target-folder: docs
+          target-folder: .
           clean: true
