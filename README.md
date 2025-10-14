@@ -1,6 +1,6 @@
 # NMRium documentation
 
-https://docs.nmrsolutions.fi
+docs.nmrsolutions.fi
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
