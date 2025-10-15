@@ -15,7 +15,7 @@ module.exports = {
       title: '',
       logo: {
         alt: 'CT Logo',
-        src: 'img/ct-logo.svg',
+        src: 'img/ct-logo.png',
       },
       items: [
         {
