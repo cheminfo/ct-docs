@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkct_docs=self.webpackChunkct_docs||[]).push([[589],{6607:t=>{t.exports=JSON.parse('{"authors":[{"name":"Luc Patiny","title":"Chief Scientific Officer, Zakodium","url":"https://www.linkedin.com/in/lpatiny","imageURL":"https://avatars0.githubusercontent.com/u/1484241?s=400&v=4","key":"lpatiny","page":null,"count":1}]}')}}]);
