@@ -2,20 +2,20 @@
 module.exports = {
   title: 'ChemTruth documentation',
   tagline: 'Documentation of CT',
-  url: 'https://ct.nmrsolutions.fi',
-  baseUrl: '/',
+  url: 'https://nmrsolutions.io',
+  baseUrl: '/ct-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'cheminfo',
-  projectName: 'nmrium-docs',
+  projectName: 'ct-docs',
   plugins: ['@orama/plugin-docusaurus-v3'],
   themeConfig: {
     navbar: {
       title: '',
       logo: {
-        alt: 'NMRium Logo',
-        src: 'img/nmrium-logo.svg',
+        alt: 'CT Logo',
+        src: 'img/ct-logo.svg',
       },
       items: [
         {
@@ -26,15 +26,15 @@ module.exports = {
         },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://www.nmrium.com',
-          label: 'nmrium.com',
+          href: 'https://nmrsolutions.io/',
+          label: 'nmrsolutions.io',
           position: 'right',
         },
       ],
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} NMRium contributors. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} CT documentation contributors. Built with Docusaurus.`,
     },
     docs: {
       sidebar: {
@@ -49,7 +49,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/cheminfo/nmrium-docs/edit/main/',
+          editUrl: 'https://github.com/cheminfo/ct-docs/edit/main/',
           routeBasePath: '/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
