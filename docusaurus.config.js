@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'ChemTruth documentation',
+  title: 'CosmicTruth documentation',
   tagline: 'Documentation of CT',
   url: 'https://nmrsolutions.io',
   baseUrl: '/ct-docs/',
