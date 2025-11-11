@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkct_docs=self.webpackChunkct_docs||[]).push([[864],{5761:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/ct-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

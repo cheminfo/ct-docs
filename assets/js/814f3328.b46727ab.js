@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkct_docs=self.webpackChunkct_docs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"NMRium new features - September 2025","permalink":"/ct-docs/blog/2025-09-01-newsletter","unlisted":false,"date":"2025-09-01T00:00:00.000Z"}]}')}}]);

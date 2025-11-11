@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkct_docs=self.webpackChunkct_docs||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"NMRium","permalink":"/blog/tags/nm-rium","count":1},{"label":"newsletter","permalink":"/blog/tags/newsletter","count":1}]}')}}]);
