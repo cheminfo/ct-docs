@@ -3,7 +3,7 @@ module.exports = {
   title: 'CosmicTruth documentation',
   tagline: 'Documentation of CT',
   url: 'https://nmrsolutions.io',
-  baseUrl: '/ct-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
