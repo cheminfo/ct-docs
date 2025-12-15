@@ -1,0 +1,5 @@
+The color of the pentagon indicates the overall status of the pentagon
+white: case not run yet, or run and produced no tangible result
+red: case produced a result, but needs (major) work
+orange: case is on the way of being solved
+green: case is solved and, depending on the specific scores, publication quality
