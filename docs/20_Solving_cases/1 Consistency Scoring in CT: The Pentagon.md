@@ -1,5 +1,5 @@
 ﻿---
-title: Solving cases: General Concepts
+title: 1 Consistency Scoring in CT: The Pentagon
 description: General concepts
 slug: /
 ---
