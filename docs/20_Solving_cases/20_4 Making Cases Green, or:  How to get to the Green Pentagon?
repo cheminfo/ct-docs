@@ -1,0 +1,30 @@
+Improving the yellow-orange-red cases: Check which vertex has the least match score and try to match the experimental spectrum with the predicted spectrum. The parameters in need of attention will have an exclamation mark (!).
+
+1. Correct the chemical shifts of the predicted spectra.
+
+Click and drag the name tags on the top of the spectrum to move the selected signal
+
+Drag the predicted spectrum signals (red) to the manually assigned chemical shift of the experimental signals (blue)
+
+Save the changes
+
+2. For the shift similarity vertex, there is a need to change the chemical shifts, so the changes would be made in the delta icon (chemical shifts) or manually, as previously described.
+
+3. For the coupling similarity vertex, go to the J (coupling constants) icon.
+
+4. For the intensity vertex, go to the R (relaxation response) icon. For this feature, an interactive way can be used. Right 
+click into the label of the proton, and some arrows will be displayed:
+
+    Line width (LW) arrows (↔); drag to change the line width
+    Response arrows (↕) displayed at the top of the signal.
+    Min (↧) and max (↥) arrows appear for Response on the right
+    Population arrows (↕) displayed at the middle of the signal
+      For qNMR, this parameter is the goal of the iteration and should not be changed manually
+  A min (↧) arrows appears for Population on the left
+
+5. For changes in the response, drag up and down the response arrows (↕) .
+    Sometimes there’s a need to change the line width of the predicted spectrum, in order to match the experimental one, in that case click on the peak with arrows (line shape) icon or use the LW arrows (↔), drag left and right to increase or decrease the linewidth enhancement of the predicted spectrum. 
+  When editing parameters, there are three different icons:
+    Assigned: Value is assigned and range can be determined 
+    Autoassign: CT will determine as part of iteration
+6. Locked: maintains the current value during the iteration; iterator cannot make any changes.
