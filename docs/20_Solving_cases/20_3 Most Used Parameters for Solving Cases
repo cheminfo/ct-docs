@@ -1,0 +1,19 @@
+When solving suboptimal cases, the focus is typically on improving the intensity and RMS scores, and thereby the matching score, by making the following adjustments:
+
+*delta*:
+
+
+move nuclei to the correct position based on known or suspected assignments; swapping A/B pairs in terms of their delta values
+
+*J*:
+
+
+checking J patterns for errors; correcting J values that are known or for which a range can be safely assumed; swapping A/B pairs in terms of their coupling patterns
+
+*Line width and shape*:
+
+make known assignments and/or set reasonably safe values and ranges for line width and Lorentzian/Gaussian line shape
+
+*Response*:
+
+make known assignments and/or set reasonably safe values and ranges for the response
