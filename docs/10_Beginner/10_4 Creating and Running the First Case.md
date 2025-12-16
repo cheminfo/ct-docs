@@ -6,27 +6,21 @@
    3. using a previous case as a blueprint for a new case.  
       For the latter two, you can select either the spectra, spin system(s) or case and use the right arrow to move the information to the import data window:
 
-![][image8]
+      ![][image8]
 
-If a case is used, all the data in the case will be used as input for the new case, but a spin system or spectrum can be removed or added.
-
-* Define a speaking/meaningful case name
-
-  * Write in the Remarks box useful information about the case, like a description
-
-  * Save the case with the floppy disk icon (yellow circle) and it will appear in the dashboard
-
-    * It is possible to directly run the analysis in automation using the “play” icon (pink circle) and the case will be also automatically saved in the dashboard
-
-![][image9]
-
-* Add useful tags (keywords) to categorize and organize your cases. 
-
-Name, remarks and tags are very important because the dashboard has a limited amount of elements that can be loaded at the same time so you cannot scroll until the bottom of it. Only the last 40-45 opened can be loaded. For this reason the filter bar becomes **essential** to find old cases, spectra or molecule’s spin systems.
-
-![][image10]
-
-* Click on the view icon to open the case or on the pencil to edit/run it.
+      If a case is used, all the data in the case will be used as input for the new case, but a spin system or spectrum can be removed or added.
+      * Define a speaking/meaningful case name
+      * Write in the Remarks box useful information about the case, like a description
+      * Save the case with the floppy disk icon (yellow circle) and it will appear in the dashboard
+         * It is possible to directly run the analysis in automation using the “play” icon (pink circle) and the case will be also automatically saved in the dashboard
+           ![][image9]
+      * Add useful tags (keywords) to categorize and organize your cases.
+      
+      Name, remarks and tags are very important because the dashboard has a limited amount of elements that can be loaded at the same time so you cannot scroll until the bottom of it. Only the last 40-45 opened can be loaded. For this reason the filter bar becomes **essential** to find old cases, spectra or molecule’s spin systems.
+      
+      ![][image10]
+      
+      * Click on the view icon to open the case or on the pencil to edit/run it.
 
 2. **First Run in Automation.** To run the case, click on the play button and confirm  
    
